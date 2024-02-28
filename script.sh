@@ -11,7 +11,6 @@ sudo cp /etc/fail2ban/jail.conf /etc/fail2ban/jail.local
 
 # Color-coded "ls"
 touch ~/.bash_aliases && echo "alias ls='exa -la'" > .bash_aliases
-source ~/.bashrc
 
 # Vim/Tmux customizations
 echo "set number
